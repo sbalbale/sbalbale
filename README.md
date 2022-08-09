@@ -12,7 +12,7 @@ Hello! My name's Sean Balbale. I'm a senior in high school doing my best to make
 
 ## ⚒️ Languages and Tools
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=js,py,html,css,git,java,md,vscode,nextjs,nodejs,react,ts,tailwind" />
+	<img src="https://skillicons.dev/icons?i=python,java,js,node,react,next,html,css,tailwind,arduino,git,twilio" />
 </p>
 
 ## 🧮 Stats
