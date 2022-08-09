@@ -7,10 +7,8 @@
 - Goal for 2022: I want to contribute more to open source code
 - :musical_note: Fun fact: I sing and row.
 
-## 📂 Projects
-- 15-112: Fail Early and Often
 
-## ⚒️ Languages and Tools
+## ⚒️ What Languages and Tools do I use?
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,next,html,css,tailwind,arduino,git,googlecloud,vscode" />
 </p>
@@ -20,7 +18,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbalbale&count_private=true&show_icons=true&locale=en)
 
-## 🔗 Connect with me
+## Connect with me
 Website: [Cherrybrook Networks](https://cherrybrooknetworks.dev)
 
 Twitter: [seanbalbale](https://twitter.com/seanbalbale)
