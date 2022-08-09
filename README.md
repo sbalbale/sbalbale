@@ -5,7 +5,7 @@
 - I'm currently a senior at Weston High School.
 - I'm always looking to learn new things.
 - Goal for 2022: I want to contribute more to open source code
-- :music: Fun fact: I sing.
+- :musical_note: Fun fact: I sing.
 
 ## 📂 Projects
 - 15-112: Fail Early and Often | A cleaner email client.
