@@ -8,7 +8,7 @@
 - :musical_note: Fun fact: I sing and row.
 
 
-## ⚒️ What Languages and Tools do I use?
+## ⚒️ What Languages and Tools do I Use?
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,next,html,css,tailwind,arduino,git,googlecloud,vscode" />
 </p>
