@@ -8,9 +8,7 @@
 - :musical_note: Fun fact: I sing and row.
 
 ## 📂 Projects
-- 15-112: Fail Early and Often | A cleaner email client.
-- [ChiTest](https://chitest.xyz) | Studying doesn't need to be as restrictive as term-definition.
-- [Scholar](https://github.com/Neesh774/Scholar) | Making my Notion page more dynamic using the Notion API.
+- 15-112: Fail Early and Often
 
 ## ⚒️ Languages and Tools
 <p align="center">
