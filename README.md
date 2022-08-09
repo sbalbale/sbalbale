@@ -22,8 +22,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbalbale&count_private=true&show_icons=true&locale=en)
 
-## 🔗 Links
-Website: [Ilios](https://cherrybrooknetworks.dev)
+## 🔗 Connect with me
+Website: [Cherrybrook Networks](https://cherrybrooknetworks.dev)
 
 Twitter: [seanbalbale](https://twitter.com/seanbalbale)
 
