@@ -21,8 +21,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbalbale&show_icons=true&locale=en)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sbalbale)
-
 ## 🔗 Links
 Website: [Ilios](https://cherrybrooknetworks.dev)
 
