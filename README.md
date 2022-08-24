@@ -1,4 +1,4 @@
-### Hello! My name's Sean Balbale. - [I'm a software engineer.](https://cherrybrooknetworks.dev)
+### Hello! My name is Sean Balbale. - [I'm a software engineer.](https://cherrybrooknetworks.dev)
 
 
 ## I'm a Student, Developer, and Athlete
