@@ -1,11 +1,10 @@
 ### Hello! My name is Sean Balbale. - [I'm a software engineer.](https://cherrybrooknetworks.dev)
 
 
-## I'm a Student, Developer, and Athlete
+## I'm a Student, Developer, Singer, and Athlete
 - I'm currently a senior at Weston High School.
 - I'm always looking to learn new things.
 - Goal for 2022: I want to contribute more to open source code
-- :musical_note: Fun fact: I sing and row.
 
 
 ## What Languages and Tools do I Use?
