@@ -4,7 +4,7 @@
 ## I'm a Student, Developer, Singer, and Athlete
 - I'm currently a senior at Weston High School.
 - I'm always looking to learn new things.
-- Goal for 2022: I want to contribute more to open source code
+- Goal for 2023: I want to contribute more to open source code
 
 
 ## What Languages and Tools do I Use?
