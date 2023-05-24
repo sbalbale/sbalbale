@@ -22,6 +22,6 @@ Website: [Cherrybrook Networks](https://cherrybrooknetworks.dev)
 
 Twitter: [seanbalbale](https://twitter.com/seanbalbale)
 
-LinkedIn: [Sean Balbale](https://www.linkedin.com/in/sean-balbale-7b7689174/)
+LinkedIn: [Sean Balbale](https://www.linkedin.com/in/seanbalbale/)
 
 Discord: [Sean Balbale](https://discord.com/users/325794320042950666)
