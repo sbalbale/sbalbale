@@ -2,7 +2,7 @@
 
 
 ## I'm a Student, Developer, Singer, and Athlete
-- I'm currently a senior at Weston High School.
+- I'm currently a freshman at Northeastern University.
 - I'm always looking to learn new things.
 - Goal for 2023: I want to contribute more to open source code
 
