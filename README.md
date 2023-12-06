@@ -4,8 +4,6 @@
 ## I'm a Student, Developer, Singer, and Athlete
 - I'm currently a freshman at Northeastern University.
 - I'm always looking to learn new things.
-- Goal for 2023: I want to contribute more to open source code
-
 
 ## What Languages and Tools do I Use?
 <p align="center">
