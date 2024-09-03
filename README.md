@@ -2,7 +2,7 @@
 
 
 ## I'm a Student, Developer, Singer, and Athlete
-- I'm currently a freshman at Northeastern University.
+- I'm currently a sophomore at Northeastern University.
 - I'm always looking to learn new things.
 
 ## What Languages and Tools do I Use?
