@@ -10,14 +10,8 @@
 	<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,next,html,css,tailwind,arduino,git,googlecloud,vscode" />
 </p>
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbalbale&count_private=true&show_icons=true&locale=en)
-
 ## Connect with me
 Website: [Cherrybrook Networks](https://cherrybrooknetworks.dev)
 
-Twitter: [seanbalbale](https://twitter.com/seanbalbale)
-
 LinkedIn: [Sean Balbale](https://www.linkedin.com/in/seanbalbale/)
 
-Discord: [Sean Balbale](https://discord.com/users/325794320042950666)
