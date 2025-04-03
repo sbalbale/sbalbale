@@ -18,7 +18,7 @@ I'm a student-athlete at **Trinity College** pursuing a dual B.S. in **Electrica
 
 **Languages & Tools:**
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nextjs,tailwind,html,css,arduino,linux,git,solidworks,matlab" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nextjs,tailwind,html,css,arduino,linux,git,matlab" />
     </p>
 
 Feel free to connect or explore my projects below.
