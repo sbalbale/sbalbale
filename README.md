@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-cherrybrooknetworks.dev-blue)](https://cherrybrooknetworks.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sean%20Balbale-blue)](https://www.linkedin.com/in/seanbalbale/)
 
-I'm a student-athlete at **Trinity College** pursuing a dual B.S. in **Electrical & Computer Engineering** and **Computer Science**. I enjoy applying my technical skills to various projects and learning new technologies.
+I'm a student-athlete at **Trinity College** pursuing a **double major** in **Electrical & Computer Engineering** and **Computer Science**. I enjoy applying my technical skills to various projects and learning new technologies.
 
 **What I'm Working On:**
 * 📚 Studying ECE and CS topics like Data Structures, Algorithms, and Embedded Systems Design.
@@ -18,7 +18,7 @@ I'm a student-athlete at **Trinity College** pursuing a dual B.S. in **Electrica
 
 **Languages & Tools:**
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nextjs,tailwind,html,css,arduino,linux,git,matlab" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nextjs,tailwind,html,css,arduino,linux,git,googlecloud,matlab" />
     </p>
 
 Feel free to connect or explore my projects below.
