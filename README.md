@@ -1,6 +1,6 @@
 ### Hello! I'm Sean Balbale
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-cherrybrooknetworks.dev-blue)](https://cherrybrooknetworks.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-seanbalbale.com-blue)](https://seanbalbale.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sean%20Balbale-blue)](https://www.linkedin.com/in/seanbalbale/)
 
 I'm a student-athlete at **Trinity College** pursuing a **double major** in **Electrical & Computer Engineering** and **Computer Science**. I enjoy applying my technical skills to various projects and learning new technologies.
