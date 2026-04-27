@@ -1,55 +1,60 @@
 # Sean Balbale
 
-### Systems Engineer | Hardware-Software Integration | Dual CS & ECE @ Trinity College
+**Electrical & Computer Engineering + Computer Science @ Trinity College '27**  
+**Incoming Cloud/Service Software Engineering Intern @ Sonos · Boston, MA**
 
-[Portfolio](https://seanbalbale.com)
-[LinkedIn](https://www.linkedin.com/in/seanbalbale/)
+---
 
-> **Engineering Philosophy:** I bridge the gap between low-level embedded architecture and enterprise-scale cloud services. I believe the most effective software engineers fundamentally understand the physical limitations of the hardware executing their code—from calculating 8051 interrupt latency to refactoring Spring Boot data access layers.
+I'm a senior at Trinity College pursuing dual B.S. degrees in ECE and CS, with a focus on the hardware-software interface — the layer where firmware constraints, distributed systems, and real-world physics meet. My engineering philosophy is simple: understanding how hardware works makes you a better software engineer. That lens shapes how I approach every project, from embedded wearables to cloud microservices.
 
------
+This summer I'm joining the Cloud/Service team at **Sonos**, working with AWS and Kubernetes on the microservices and APIs that power Sonos products. Last summer I was at **Bullhorn** (Boston), where I led a Spring Boot 2→3 migration — `javax`→`jakarta` namespace refactors, Log4j2 security upgrades, and a full dependency audit across a production Java monolith.
 
-### 🛠️ Core Engineering Focus
+---
 
-  * **Cloud Architecture & Infrastructure:** Incoming **Sonos** Cloud Services Intern. Previously at **Bullhorn**, where I owned a major migration from Spring Boot 2 to 3, navigating complex `javax`-to-`jakarta` transitions and hardening security dependencies.
-  * **Embedded Systems & Hardware:** Dual-major in Electrical Engineering and Computer Science. Experienced in Assembly (8051), Verilog (FPGA), and precision metrology calibration with micron-level tolerances.
-  * **Privacy Research:** Author of *Embodied Harms and Inferred Data*, advocating for a "Bodyright" framework and hardware-level biometric security in Extended Reality (XR) architectures.
-  * **Athletic Discipline:** Varsity Oarsman for Trinity College Men’s Rowing.
+## What I Build
 
------
+**Haptic Horizon** — Wearable navigation device for the visually impaired. Embedded C++ on Arduino hardware; ultrasonic ranging (HC-SR04) drives a haptic feedback matrix that encodes distance and direction without sound.
 
-### 📂 Professional Experience
+**Project Aletheia** — Interactive privacy manifesto built in React. Demonstrates biometric tracking risks in immersive technology and makes the case for Privacy-by-Design and Zero-Knowledge client-side architectures. Published in *The International Journal of Law, Ethics, and Technology* (Forthcoming, Spring 2026).
 
-  * **Sonos (Summer 2026):** Cloud Services Software Engineering Intern.
-  * **Trinity College (Spring 2026):** Teaching Assistant for ENGR 212 (Linear Circuit Theory). Instructing on RLC networks, Laplace/Fourier transforms, and signal analysis.
-  * **Bullhorn (Summer 2025):** Software Engineering Intern (Shield & Builders teams). Managed enterprise backend migrations and Log4j2 security hardening.
-  * **Titan Advanced Energy Solutions:** Developed Python-based visualization software to parse ultrasound sensor data for EV battery defect detection.
+**HPC Cluster** — Three Lenovo P340 SSF machines networked via Gigabit switch, configured with Slurm and benchmarked with MPI. Built to run parallel workloads for coursework in CPSC 375 (High-Performance Computing).
 
------
+**Remote MCP Server** — TypeScript MCP server exposing my Obsidian vault over a secure Cloudflare Tunnel / Tailscale endpoint, with Bearer auth and Docker Compose multi-profile deployment.
 
-### 🧰 Technical Proficiencies
+**8051 Assembly Heart Rate Monitor** — Hardware heart rate monitor implemented entirely in 8051 Assembly; real-time ADC sampling, interrupt-driven I/O, and BCD display output.
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Software** | Java (Spring Boot 3, Jakarta EE), Python, TypeScript, SQL, MATLAB |
-| **Hardware** | 8051 Microcontroller, Intel Cyclone V FPGA, Arduino, Assembly, Verilog, C/C++ |
-| **Tools** | AWS, Docker, Linux, Kubernetes, LTspice, SolidWorks, Git, CI/CD |
-| **Analysis** | Oscilloscopes, Logic Analyzers, Precision Metrology (CMM, Laser Trackers) |
+---
 
------
+## Stack
 
-### 🔬 Featured Research & Projects
+```
+Languages     Java · Python · C · C++ · TypeScript · Assembly (8051, MIPS) · Verilog
+Backend       Spring Boot · Node.js · REST APIs · Kubernetes · AWS
+Frontend      React · Next.js · Tailwind CSS
+Embedded      Arduino · FPGAs (Intel Cyclone V) · NI-DAQ · SPI/I²C protocols
+Tools         Docker · Git · Slurm · MPI · Klipper · LaTeX
+```
 
-  * **[Project Aletheia]:** Redefining privacy in XR—pivoting from "notice-and-choice" to hardware-level data sovereignty.
-  * **[Embedded Heart Rate Monitor]:** Assembly-level firmware for 8051 MCUs, processing analog signals for clinical-grade real-time counting.
-  * **[Haptic Horizon]:** Exploring the intersection of tactile feedback and digital interfaces.
-  * **[Robotic Control via FPGA]:** Leveraging Verilog for high-speed, hardware-level logic and motion control.
+---
 
------
+## Outside the IDE
 
-### 🤝 Connect
+I compete for Trinity's D3 varsity rowing program.
 
-I am always open to discussing distributed systems, embedded architecture, or the political economy of tech.
+I'm also Technology Chair for the **Trinity Accidentals**, Trinity's premier a cappella group, where I manage live sound and recording infrastructure.
 
-  * **Email:** [contact@seanbalbale.com](mailto:contact@seanbalbale.com)
-  * **Location:** Greater Boston Area
+When I'm not on the water: technical ski mountaineering, road cycling (data-driven, pedal stroke symmetry), and 3D printing on a heavily modified Ender 3 v2 running Klipper.
+
+---
+
+## Interests
+
+Privacy law (GDPR, BIPA, biometric autonomy) · XR ethics and surveillance capitalism · Hardware-constrained software design · Distributed systems · HPC and parallel computing
+
+---
+
+<p align="left">
+  <a href="https://seanbalbale.com">Portfolio</a> ·
+  <a href="https://linkedin.com/in/seanbalbale">LinkedIn</a> ·
+  <a href="mailto:sean.balbale@trincoll.edu">Email</a>
+</p>
